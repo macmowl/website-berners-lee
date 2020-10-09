@@ -156,6 +156,10 @@ section.movies h2 span {
     margin-left: 96px;
 }
 
+.movie .sinopsys p {
+    text-align: justify;
+}
+
 h3 {
     text-align: center;
     margin-block-start: 0;
