@@ -117,6 +117,10 @@ ul li a:hover {
     color: var(--main-color);
 }
 
+ul li a:hover {
+    color: #ccc;
+}
+
 ul li a i {
     font-size: 32px;
 }
