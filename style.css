@@ -117,7 +117,7 @@ ul li a:hover {
     color: var(--main-color);
 }
 
-ul li a:hover {
+ul li a:visited {
     color: #ccc;
 }
 
