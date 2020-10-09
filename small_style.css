@@ -1,0 +1,35 @@
+body {
+    font-size: 22px;
+}
+
+section {
+    border-radius: 0px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/* --------- INTRO Section ------------ */
+
+section.intro {
+    margin-top: 0;
+}
+
+.img-cropper {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: auto;
+    border: 3px solid #cccccc;
+}
+
+.img-cropper img {
+    width: auto;
+    height: 100%;
+}
