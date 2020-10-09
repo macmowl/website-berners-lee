@@ -1,18 +1,11 @@
-body {
-    font-size: 22px;
-}
+
 
 section {
     border-radius: 0px;
+    width: 100%;
 }
 
-h1 {
-    font-size: 40px;
-}
 
-h2 {
-    font-size: 30px;
-}
 
 /* --------- INTRO Section ------------ */
 
@@ -21,8 +14,8 @@ section.intro {
 }
 
 .img-cropper {
-    width: 200px;
-    height: 200px;
+    width: 140px;
+    height: 140px;
     overflow: hidden;
     border-radius: 50%;
     margin: auto;
