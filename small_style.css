@@ -26,27 +26,3 @@ section.intro {
     width: auto;
     height: 100%;
 }
-
-/* --------- MOVIES Section ------------ */
-
-.movie {
-    margin-top: 50px;
-    overflow: hidden;
-    position: relative;
-}
-
-.movie img {
-    width: 60%;
-    height: auto;
-    margin-right: 0;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.movie .sinopsys {
-    margin-top: 300px;
-    margin-left: 0;
-    clear: left;
-}
