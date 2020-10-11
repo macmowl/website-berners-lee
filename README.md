@@ -7,4 +7,4 @@ Time Berners-Lee is the *inventor of the Web*. In 1989, Tim was working in a com
 
 And now, you visit the same website but this one was made with the power of Sass, CSS grid and Flexbox!!!
 
-[This way](https://macmowl.github.io/website-berners-lee-sass/)
+[This way](https://github.com/macmowl/website-berners-lee-sass)
